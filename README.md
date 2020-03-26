@@ -14,6 +14,9 @@ Step 3 : run game by file game_name.py {for example: snakes.py}
 
 
 I hope you enjoy the game
+
 Thanks
+
 Regards
+
 GOURAV RAWAT
